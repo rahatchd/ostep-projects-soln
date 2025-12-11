@@ -1,2 +1,5 @@
 tests-out/
 
+*.swp
+.DS_store
+
